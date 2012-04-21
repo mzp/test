@@ -1,4 +1,4 @@
 test
 ====
 
-Testdata for Github API.
+Test data for Github API.
